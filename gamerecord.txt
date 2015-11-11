@@ -1,0 +1,1186 @@
+0 1 2
+bonogna 1   2 turino
+0 1 3
+milano 2   2 firenze
+0 1 4
+tunisia 2   1 genoa
+0 2 1
+venezia 3   1 marsiglia
+0 2 2
+genoa 0   1 firenze
+0 2 3
+milano 3   1 tunisia
+0 2 4
+turino 0   2 marsiglia
+0 3 1
+venezia 2   2 bologna
+0 3 2
+marsiglia 3   1 genoa
+0 3 3
+tunisia 1   0 venezia
+0 3 4
+firenze 1   0 turino
+0 4 1
+bologna 2   2 milano
+0 4 2
+venezia 0   0 firenze
+0 4 3
+milano 1   2 marsiglia
+0 4 4
+turino 4   1 tunisia
+0 5 1
+genoa 2   1 bologna
+0 5 2
+tunisia 3   1 bologna
+0 5 3
+turino 3   3 genoa
+0 5 4
+marsiglia 2   0 firenze
+0 6 1
+milano 0   0 venezia
+0 6 2
+genoa 1   2 milano
+0 6 3
+venezia 2   3 turino
+0 6 4
+bologna 2   0 marsiglia
+0 7 1
+firenze 2   1 tunisia
+0 7 2
+bologna 1   2 firenze
+0 7 3
+marsiglia 4   0 tunisia
+0 7 4
+genoa 3   2 venezia
+0 8 1
+milano 2   1 turino
+0 8 2
+turino 0   2 bologna
+0 8 3
+firenze 2   0 milano
+0 8 4
+genoa 2   0 tunisia
+0 9 1
+marsiglia 1   1 venezia
+0 9 2
+firenze 1   2 genoa
+0 9 3
+tunisia 2   1 milano
+0 9 4
+marsiglia 1   1 turino
+0 10 1
+bologna 0   0 venezia
+0 10 2
+genoa 0   0 marsiglia
+0 10 3
+venezia 2   2 tunisia
+0 10 4
+turino 2   4 firenze
+0 11 1
+milano 1   0 bologna
+0 11 2
+firenze 5   1 venezia
+0 11 3
+marsiglia 3   3 milano
+0 11 4
+tunisia 0   1 turino
+0 12 1
+bologna 0   2 genoa
+0 12 2
+bologna 2   2 tunisia
+0 12 3
+genoa 1   2 turino
+0 12 4
+firenze 3   2 marsiglia /////////////firenze claim champin 2 round ahead
+0 13 1
+venezia 2   2 milano
+0 13 2
+milano 4   0 genoa
+0 13 3
+turino 1   2 venezia
+0 13 4
+marsiglia 3   0 bologna
+0 14 1
+tunisia 0   1 firenze
+0 14 2
+firenze 2   1 bologna
+0 14 3
+tunisia 3   2 marsiglia
+0 14 4
+venezia 2   1 genoa
+0 15 1
+turino 2   1 milano
+////////////////////////////////////////season end///////////
+
+1 1 2
+venezia 1   2 marsiglia
+1 1 3
+firenze 0   2 bologna
+1 1 4
+tunisia 2   1 milano
+1 2 1
+turino 2   2 genoa
+1 2 2
+milano 2   1 bologna
+1 2 3
+firenze 1   2 tunisia
+1 2 4
+marsiglia 3   2 genoa
+1 3 1
+turino 3   0 venezia
+1 3 2
+genoa 1   0 milano
+1 3 3
+tunisia 2   1 turino
+1 3 4
+bologna 4   2 marsiglia
+1 4 1
+venezia 0   1 firenze
+1 4 2
+turino 3   2 bologna
+1 4 3
+firenze 0   0 genoa
+1 4 4
+marsiglia 1   0 tunisia
+1 5 1
+milano 0   2 venezia
+1 5 2
+tunisia 1   1 venezia
+1 5 3
+marsiglia 3   0 milano
+1 5 4
+genoa 1   1 bologna
+1 6 1
+firenze 0   0 turino
+1 6 2
+milano 3   2 firenze
+1 6 3
+turino 3   0 marsiglia
+1 6 4
+venezia 2   0 genoa
+1 7 1
+bologna 2   1 tunisia
+1 7 2
+venezia 1   0 bologna
+1 7 3
+genoa 1   1 tunisia
+1 7 4
+milano 1   1 turino
+1 8 1
+firenze 2   1 marsiglia
+1 8 2
+marsiglia 4   1 venezia
+1 8 3
+bologna 1   1 firenze
+1 8 4
+milano 1   2 tunisia
+1 9 1
+genoa 2   3 turino
+1 9 2
+bologna 1   2 milano
+1 9 3
+tunisia 2   2 firenze
+1 9 4
+genoa 1   1 marsiglia
+1 10 1
+venezia 3   2 turino
+1 10 2
+milano 2   2 genoa
+1 10 3
+turino 0   1 tunisia
+1 10 4
+marsiglia 0   2 bologna
+1 11 1
+firenze 1   0 venezia
+1 11 2
+bologna 1   1 turino
+1 11 3
+genoa 0   0 firenze
+1 11 4
+tunisia 0   2 marsiglia
+1 12 1
+venezia 0   1 milano
+1 12 2
+venezia 1   4 tunisia
+1 12 3
+milano 0   3 marsiglia
+1 12 4
+bologna 2   1 genoa
+1 13 1
+turino 3   1 firenze
+1 13 2
+firenze 2   4 milano
+1 13 3
+marsiglia 1   0 turino
+1 13 4
+genoa 1   2 venezia
+1 14 1
+tunisia 3   2 bologna
+1 14 2
+bologna 1   0 venezia
+1 14 3
+tunisia 2   1 genoa
+1 14 4
+turino 3   1 milano
+1 15 1
+marsiglia 1   1 firenze
+2 1 2
+firenze 1   1 marsiglia
+2 1 3
+tunisia 1   0 genoa
+2 1 4
+venezia 3   1 turino
+2 2 1
+bologna 2   1 milano
+2 2 2
+turino 2   0 genoa
+2 2 3
+tunisia 2   0 venezia
+2 2 4
+marsiglia 2   2 milano
+2 3 1
+bologna 1   2 firenze
+2 3 2
+milano 2   2 turino
+2 3 3
+venezia 1   0 bologna
+2 3 4
+genoa 1   0 marsiglia
+2 4 1
+firenze 3   2 tunisia
+2 4 2
+bologna 0   0 genoa
+2 4 3
+tunisia 1   0 milano
+2 4 4
+marsiglia 1   2 venezia
+2 5 1
+turino 2   1 firenze
+2 5 2
+venezia 1   3 firenze
+2 5 3
+marsiglia 1   1 turino
+2 5 4
+milano 0   1 genoa
+2 6 1
+tunisia 2   2 bologna
+2 6 2
+turino 1   1 tunisia
+2 6 3
+bologna 0   2 marsiglia
+2 6 4
+firenze 1   2 milano
+2 7 1
+genoa 2   2 venezia
+2 7 2
+firenze 1   2 genoa
+2 7 3
+milano 2   1 venezia
+2 7 4
+turino 2   3 bologna
+2 8 1
+tunisia 1   2 marsiglia
+2 8 2
+marsiglia 3   0 firenze
+2 8 3
+genoa 1   0 tunisia
+2 8 4
+turino 2   1 venezia
+2 9 1
+milano 1   3 bologna
+2 9 2
+genoa 1   3 turino
+2 9 3
+venezia 2   1 tunisia
+2 9 4
+milano 1   1 marsiglia
+2 10 1
+firenze 2   2 bologna
+2 10 2
+turino 1   1 milano
+2 10 3
+bologna 1   0 venezia
+2 10 4
+marsiglia 2   2 genoa
+2 11 1
+tunisia 1   2 firenze
+2 11 2
+genoa 1   2 bologna
+2 11 3
+milano 1   1 tunisia
+2 11 4
+venezia 2   1 marsiglia
+2 12 1
+firenze 0   1 turino
+2 12 2
+firenze 0   3 venezia
+2 12 3
+turino 2   0 marsiglia
+2 12 4
+genoa 2   2 milano
+2 13 1
+bologna 3   1 tunisia
+2 13 2
+tunisia 3   0 turino
+2 13 3
+marsiglia 4   0 bologna
+2 13 4
+milano 1   1 firenze
+2 14 1
+venezia 2   0 genoa
+2 14 2
+genoa 1   1 firenze
+2 14 3
+venezia 3   0 milano
+2 14 4
+bologna 0   3 turino
+2 15 1
+marsiglia 0   2 tunisia
+3 1 2
+firenze 1   0 venezia
+3 1 3
+turino 0   2 milano
+3 1 4
+genoa 1   0 bologna
+3 2 1
+tunisia 2   2 marsiglia
+3 2 2
+bologna 1   3 milano
+3 2 3
+turino 0   2 genoa
+3 2 4
+venezia 1   1 marsiglia
+3 3 1
+tunisia 1   2 firenze
+3 3 2
+marsiglia 4   1 bologna
+3 3 3
+genoa 2   1 tunisia
+3 3 4
+milano 1   2 venezia
+3 4 1
+firenze 0   2 turino
+3 4 2
+tunisia 5   1 milano
+3 4 3
+turino 1   1 marsiglia
+3 4 4
+venezia 2   0 genoa
+3 5 1
+bologna 2   1 firenze
+3 5 2
+genoa 2   3 firenze
+3 5 3
+venezia 0   1 bologna
+3 5 4
+marsiglia 1   2 milano
+3 6 1
+turino 2   4 tunisia
+3 6 2
+bologna 1   1 turino
+3 6 3
+tunisia 1   0 venezia
+3 6 4
+firenze 2   1 marsiglia
+3 7 1
+milano 2   0 genoa
+3 7 2
+firenze 1   0 milano
+3 7 3
+marsiglia 2   1 genoa
+3 7 4
+bologna 1   1 tunisia
+3 8 1
+turino 1   0 venezia
+3 8 2
+venezia 1   1 firenze
+3 8 3
+milano 1   2 turino
+3 8 4
+bologna 3   1 genoa
+3 9 1
+marsiglia 1   0 barcelona
+3 9 2
+milano 1   2 bologna
+3 9 3
+genoa 0   1 turino
+3 9 4
+marsiglia 0   2 venezia
+3 10 1
+firenze 1   3 barcelona
+3 10 2
+bologna 2   2 marsiglia
+3 10 3
+barcelona 1   1 genoa
+3 10 4
+venezia 1   3 milano
+3 11 1
+turino 2   1 firenze
+3 11 2
+milano 1   1 barcelona
+3 11 3
+marsiglia 3   1 turino
+3 11 4
+genoa 0   0 venezia
+3 12 1
+firenze 1   0 bologna
+3 12 2
+firenze 0   0 genoa
+3 12 3
+bologna 1   1 venezia
+3 12 4
+milano 0   0 marsiglia
+3 13 1
+barcelona 2   0 turino
+3 13 2
+turino 4   0 bologna
+3 13 3
+venezia 1   0 barcelona
+3 13 4
+marsiglia 2   4 firenze
+3 14 1
+genoa 1   2 milano
+3 14 2
+milano 0   2 firenze
+3 14 3
+genoa 2   0 marsiglia
+3 14 4
+barcelona 0   0 bologna
+3 15 1
+venezia 2   0 turino
+4 1 2
+bologna 1   1 barcelona
+4 1 3
+firenze 1   2 genoa
+4 1 4
+marsiglia 0   2 milano
+4 2 1
+turino 2   1 venezia
+4 2 2
+milano 3   1 genoa
+4 2 3
+firenze 3   0 marsiglia
+4 2 4
+barcelona 1   0 venezia
+4 3 1
+turino 1   1 bologna
+4 3 2
+venezia 3   1 milano
+4 3 3
+marsiglia 1   0 turino
+4 3 4
+genoa 1   1 barcelona
+4 4 1
+bologna 2   0 firenze
+4 4 2
+turino 0   1 genoa
+4 4 3
+firenze 2   2 venezia
+4 4 4
+barcelona 2   2 marsiglia
+4 5 1
+milano 2   0 bologna
+4 5 2
+marsiglia 4   1 bologna
+4 5 3
+barcelona 2   1 milano
+4 5 4
+venezia 1   1 genoa
+4 6 1
+firenze 1   2 turino
+4 6 2
+milano 0   1 firenze
+4 6 3
+turino 2   1 barcelona
+4 6 4
+bologna 0   1 venezia
+4 7 1
+genoa 2   0 marsiglia
+4 7 2
+bologna 3   0 genoa
+4 7 3
+venezia 1   2 marsiglia
+4 7 4
+milano 0   1 turino
+4 8 1
+firenze 1   0 barcelona
+4 8 2
+barcelona 1   1 bologna
+4 8 3
+genoa 0   0 firenze
+4 8 4
+milano 0   1 marsiglia
+4 9 1
+venezia 0   0 turino
+4 9 2
+genoa 1   2 milano
+4 9 3
+marsiglia 0   2 firenze
+4 9 4
+venezia 1   1 barcelona
+4 10 1
+bologna 2   3 turino
+4 10 2
+milano 2   3 venezia
+4 10 3
+turino 2   2 marsiglia
+4 10 4
+barcelona 1   3 genoa
+4 11 1
+firenze 2   1 bologna
+4 11 2
+genoa 0   1 turino
+4 11 3
+venezia 0   1 firenze
+4 11 4
+marsiglia 3   1 barcelona
+4 12 1
+bologna 4   3 milano
+4 12 2
+bologna 1   0 marsiglia
+4 12 3
+milano 2   0 barcelona
+4 12 4
+genoa 0   0 venezia
+4 13 1
+turino 3   0 firenze
+4 13 2
+firenze 1   0 milano
+4 13 3
+barcelona 1   2 turino
+4 13 4
+venezia 2   0 bologna
+4 14 1
+marsiglia 1   0 genoa
+4 14 2
+genoa 1   1 bologna
+4 14 3
+marsiglia 1   0 venezia
+4 14 4
+turino 0   1 milano
+4 15 1
+barcelona 2   0 firenze
+5 1 2
+bologna 2   0 marsiglia
+5 1 3
+turino 0   1 barcelona
+5 1 4
+genoa 0   2 firenze
+5 2 1
+milano 3   1 venezia
+5 2 2
+firenze 1   2 barcelona
+5 2 3
+turino 4   1 genoa
+5 2 4
+marsiglia 1   3 venezia
+5 3 1
+milano 1   1 bologna
+5 3 2
+venezia 1   4 firenze
+5 3 3
+genoa 2   0 milano
+5 3 4
+barcelona 1   1 marsiglia
+5 4 1
+bologna 0   1 turino
+5 4 2
+milano 0   1 barcelona
+5 4 3
+turino 0   0 venezia
+5 4 4
+marsiglia 1   1 genoa
+5 5 1
+firenze 0   0 bologna
+5 5 2
+genoa 1   1 bologna
+5 5 3
+marsiglia 0   1 firenze
+5 5 4
+venezia 1   0 barcelona
+5 6 1
+turino 3   0 milano
+5 6 2
+firenze 0   2 turino
+5 6 3
+milano 1   0 marsiglia
+5 6 4
+bologna 1   0 venezia
+5 7 1
+barcelona 1   1 genoa
+5 7 2
+bologna 2   1 barcelona
+5 7 3
+venezia 4   0 genoa
+5 7 4
+firenze 0   1 milano
+5 8 1
+turino 3   1 marsiglia
+5 8 2
+marsiglia 2   3 bologna
+5 8 3
+barcelona 0   0 turino
+5 8 4
+firenze 3   0 genoa
+5 9 1
+venezia 2   1 milano
+5 9 2
+barcelona 1   2 firenze
+5 9 3
+genoa 2   0 turino
+5 9 4
+venezia 2   0 marsiglia
+5 10 1
+bologna 1   1 milano
+5 10 2
+firenze 0   0 venezia
+5 10 3
+milano 1   1 genoa
+5 10 4
+marsiglia 1   0 barcelona
+5 11 1
+turino 0   0 bologna
+5 11 2
+barcelona 2   1 milano
+5 11 3
+venezia 2   0 turino
+5 11 4
+genoa 2   0 marsiglia
+5 12 1
+bologna 0   2 firenze
+5 12 2
+bologna 1   0 genoa
+5 12 3
+firenze 0   0 marsiglia
+5 12 4
+barcelona 0   0 venezia
+5 13 1
+milano 3   2 turino
+5 13 2
+turino 0   1 firenze
+5 13 3
+marsiglia 0   1 milano
+5 13 4
+venezia 1   0 bologna
+5 14 1
+genoa 1   1 barcelona
+5 14 2
+barcelona 0   0 bologna
+5 14 3
+genoa 0   0 venezia
+5 14 4
+milano 0   2 firenze
+5 15 1
+marsiglia 0   1 turino
+6 1 2
+genoa 1   0 venezia
+6 1 3
+firenze 0   0 marsiglia
+6 1 4
+barcelona 2   1 turino
+6 2 1
+bologna 1   3 milano
+6 2 2
+turino 2   2 marsiglia
+6 2 3
+firenze 1   1 barcelona
+6 2 4
+venezia 0   0 milano
+6 3 1
+bologna 1   2 genoa
+6 3 2
+milano 2   1 turino
+6 3 3
+barcelona 2   1 bologna
+6 3 4
+marsiglia 0   0 venezia
+6 4 1
+genoa 2   2 firenze
+6 4 2
+bologna 3   1 marsiglia
+6 4 3
+firenze 0   0 milano
+6 4 4
+venezia 4   0 barcelona
+6 5 1
+turino 1   1 genoa
+6 5 2
+barcelona 1   0 genoa
+6 5 3
+venezia 1   1 turino
+6 5 4
+milano 0   0 marsiglia
+6 6 1
+firenze 2   0 bologna
+6 6 2
+turino 0   0 firenze
+6 6 3
+bologna 2   1 venezia
+6 6 4
+genoa 0   2 milano
+6 7 1
+marsiglia 1   1 barcelona
+6 7 2
+genoa 0   0 marsiglia
+6 7 3
+milano 1   0 barcelona
+6 7 4
+turino 1   2 bologna
+6 8 1
+firenze 0   1 venezia
+6 8 2
+venezia 0   1 genoa
+6 8 3
+marsiglia 4   0 firenze
+6 8 4
+turino 1   0 barcelona
+6 9 1
+milano 0   0 bologna
+6 9 2
+marsiglia 0   0 turino
+6 9 3
+barcelona 1   0 firenze
+6 9 4
+milano 1   1 venezia
+6 10 1
+genoa 0   0 bologna
+6 10 2
+turino 3   0 milano
+6 10 3
+bologna 3   2 barcelona
+6 10 4
+venezia 1   0 marsiglia
+6 11 1
+firenze 1   1 genoa
+6 11 2
+marsiglia 1   0 bologna
+6 11 3
+milano 2   1 firenze
+6 11 4
+barcelona 3   0 venezia
+6 12 1
+genoa 1   0 turino
+6 12 2
+genoa 3   0 barcelona
+6 12 3
+turino 0   0 venezia
+6 12 4
+marsiglia 2   0 milano
+6 13 1
+bologna 1   0 firenze
+6 13 2
+firenze 1   0 turino
+6 13 3
+venezia 0   0 bologna
+6 13 4
+milano 1   0 genoa
+6 14 1
+barcelona 1   2 marsiglia
+6 14 2
+marsiglia 0   1 genoa
+6 14 3
+barcelona 0   0 milano
+6 14 4
+bologna 2   2 turino
+6 15 1
+venezia 0   1 firenze
+7 1 2
+venezia 2   1 genoa
+7 1 3
+milano 1   1 turino
+7 1 4
+firenze 1   1 bologna
+7 2 1
+marsiglia 2   1 barcelona
+7 2 2
+bologna 1   2 turino
+7 1 5
+marsiglia 4   0 barcelona
+7 1 5
+bologna 2   1 milano
+7 2 1
+firenze 2   0 venezia
+7 2 1
+venezia 3   1 turino
+7 2 1
+venezia 2   1 turino
+7 2 1
+venezia 3   1 turino
+7 2 1
+venezia 1   1 milano
+7 3 1
+barcelona 2   0 turino
+7 2 1
+venezia 1   2 milano
+7 3 1
+barcelona 1   4 turino
+7 4 1
+firenze 1   2 marsiglia
+7 5 1
+genoa 2   1 bologna
+7 6 1
+milano 1   1 venezia
+7 7 1
+turino 0   0 barcelona
+7 8 1
+marsiglia 1   0 firenze
+7 9 1
+bologna 3   3 genoa
+7 9 1
+genoa 2   1 bologna
+7 9 1
+genoa 1   2 bologna
+7 10 1
+milano 2   0 turino
+7 11 1
+marsiglia 2   1 genoa
+7 12 1
+turino 2   1 milano
+7 13 1
+genoa 0   3 marsiglia
+7 14 1
+marsiglia 1   1 milano
+7 14 1
+milano 1   1 marsiglia
+7 14 1
+milano 0   1 marsiglia
+7 14 5
+milano 0   0 milano
+7 1 2
+barcelona 0   0 turino
+7 1 3
+bologna 2   0 genoa
+7 1 4
+venezia 4   0 milano
+7 1 5
+marsiglia 2   1 firenze
+7 2 1
+venezia 0   0 milano
+7 1 2
+barcelona 1   2 venezia
+7 1 3
+marsiglia 0   2 genova
+7 1 4
+firenze 5   0 turino
+7 1 5
+bologna 0   1 milano
+7 2 1
+firenze 1   1 marsiglia
+7 2 2
+turino 1   0 genova
+7 2 3
+marsiglia 3   0 firenze
+7 2 4
+venezia 1   5 milano
+7 2 5
+bologna 1   1 barcelona
+7 3 1
+milano 3   0 bologna
+7 3 2
+milano 2   0 turino
+7 3 3
+firenze 3   2 bologna
+7 3 4
+genova 4   1 venezia
+7 3 5
+barcelona 3   2 marsiglia
+7 4 1
+barcelona 0   0 turino
+7 4 2
+bologna 0   1 genova
+7 4 3
+marsiglia 2   2 milano
+7 4 4
+venezia 2   2 firenze
+7 4 5
+turino 1   3 barcelona
+7 5 1
+genova 2   1 venezia
+7 5 2
+firenze 3   2 barcelona
+7 5 3
+venezia 1   0 turino
+7 5 4
+milano 2   0 genova
+7 5 5
+marsiglia 1   0 bologna
+7 6 1
+marsiglia 3   1 firenze
+7 6 2
+turino 5   2 marsiglia
+7 6 3
+bologna 1   0 venezia
+7 6 4
+barcelona 3   0 milano
+7 6 5
+genova 2   3 firenze
+7 7 1
+bologna 3   0 milano
+7 7 2
+barcelona 1   2 genova
+7 7 3
+milano 4   2 firenze
+7 7 4
+turino 1   0 bologna
+7 7 5
+marsiglia 1   2 venezia
+7 8 1
+turino 1   3 barcelona
+7 8 2
+venezia 2   0 barcelona
+7 8 3
+genova 1   2 marsiglia
+7 8 4
+turino 2   0 firenze
+7 8 5
+milano 2   4 bologna
+7 9 1
+venezia 1   0 genova
+7 9 2
+genova 2   1 turino
+7 9 3
+firenze 2   1 marsiglia
+7 9 4
+milano 3   1 venezia
+7 9 5
+barcelona 3   1 bologna
+7 10 1
+marsiglia 3   1 milano
+7 10 2
+turino 1   2 milano
+7 10 3
+bologna 3   0 firenze
+7 10 4
+venezia 0   2 genova
+7 10 5
+marsiglia 2   2 barcelona
+7 11 1
+barcelona 3   1 genova
+7 11 2
+genova 4   0 bologna
+7 11 3
+milano 1   1 marsiglia
+7 11 4
+firenze 2   1 venezia
+7 11 5
+barcelona 3   0 turino
+7 12 1
+milano 1   1 marsiglia
+7 12 2
+barcelona 2   1 firenze
+7 12 3
+turino 0   0 venezia
+7 12 4
+genova 2   2 milano
+7 12 5
+bologna 2   0 marsiglia
+7 13 1
+genova 2   1 barcelona
+7 13 2
+marsiglia 1   1 turino
+7 13 3
+venezia 4   4 bologna
+7 13 4
+milano 1   1 barcelona
+7 13 5
+firenze 2   2 genova
+7 14 1
+barcelona 0   1 marsiglia
+7 14 2
+genova 0   1 barcelona
+7 14 3
+firenze 4   3 milano
+7 14 4
+bologna 0   0 turino
+7 15 1
+venezia 2   1 marsiglia
+7 15 2
+milano 0   3 barcelona
+7 15 3
+firenze 1   0 genova
+7 15 4
+iaracia 2   2 cartagine
+7 16 1
+gibilterra 1   2 zagabria
+7 16 2
+genova 4   0 barcelona
+7 16 3
+firenze 3   0 milano
+7 16 4
+cartagine 2   0 gibilterra
+7 17 1
+zagabria 3   1 iaracia
+7 17 2
+barcelona 1   0 firenze
+7 17 3
+milano 1   0 genova
+7 17 4
+iaracia 1   1 gibilterra
+7 18 1
+zagabria 2   4 cartagine
+7 18 2
+barcelona 1   1 genova
+7 18 3
+firenze 3   2 milano
+7 18 4
+gibilterra 2   1 cartagine
+7 19 1
+zagabria 2   0 iaracia
+7 19 2
+genova 1   0 firenze
+7 19 3
+barcelona 5   1 milano
+7 19 4
+cartagine 0   2 iaracia
+7 20 1
+zagabria 1   1 gibilterra
+7 20 2
+genova 1   1 milano
+7 20 3
+firenze 2   0 barcelona
+7 20 4
+cartagine 5   4 zagabria
+7 21 1
+gibilterra 1   0 iaracia
+7 21 2
+barcelona 2   2 firenze
+7 0 2
+firenze 2   1 barcelona
+8 1 2
+turino 1   1 barcelona
+8 1 3
+firenze 2   0 zagabria
+8 1 4
+bologna 0   1 genova
+8 1 5
+milano 3   0 venezia
+8 2 1
+bologna 2   0 genova
+8 2 2
+genova 7   0 zagabria
+8 2 3
+firenze 1   1 bologna
+8 2 4
+barcelona 0   1 venezia
+8 2 5
+milano 1   0 turino
+8 3 1
+turino 3   0 barcelona
+8 3 2
+venezia 2   1 genova
+8 3 3
+bologna 1   1 milano
+8 3 4
+zagabria 2   5 barcelona
+8 3 5
+turino 3   0 firenze
+8 4 1
+venezia 3   2 milano
+8 4 2
+milano 9   0 zagabria
+8 4 3
+firenze 1   1 venezia
+8 4 4
+barcelona 2   2 bologna
+8 4 5
+genova 2   1 turino
+8 5 1
+zagabria 1   1 firenze
+8 5 2
+bologna 2   2 turino
+8 5 3
+barcelona 1   2 genova
+8 5 4
+venezia 2   0 zagabria
+8 5 5
+firenze 3   1 milano
+8 6 1
+genova 2   2 bologna
+8 6 2
+genova 3   1 firenze
+8 6 3
+milano 0   1 barcelona
+8 6 4
+turino 0   2 venezia
+8 6 5
+zagabria 2   1 bologna
+8 7 1
+barcelona 2   3 turino
+8 7 2
+turino 3   0 zagabria
+8 7 3
+venezia 1   1 bologna
+8 7 4
+genova 0   2 milano
+8 7 5
+firenze 1   2 barcelona
+8 8 1
+milano 3   0 venezia
+8 8 2
+barcelona 3   0 turino
+8 8 3
+zagabria 1   2 firenze
+8 8 4
+genova 1   1 bologna
+8 8 5
+venezia 2   2 milano
+8 9 1
+firenze 9   0 zagabria
+8 9 2
+zagabria 2   1 genova
+8 9 3
+bologna 3   0 firenze
+8 9 4
+venezia 1   1 barcelona
+8 9 5
+turino 2   2 milano
+8 10 1
+bologna 2   3 turino
+8 10 2
+genova 3   1 venezia
+8 10 3
+milano 1   2 bologna
+8 10 4
+barcelona 10   0 zagabria
+8 10 5
+firenze 2   2 turino
+8 11 1
+milano 2   2 firenze
+8 11 2
+zagabria 2   3 milano
+8 11 3
+venezia 0   4 firenze
+8 11 4
+bologna 4   2 barcelona
+8 11 5
+turino 2   2 genova
+8 12 1
+turino 2   0 bologna
+8 12 2
+turino 4   1 bologna
+8 12 3
+genova 1   2 barcelona
+8 12 4
+zagabria 1   3 venezia
+8 12 5
+milano 2   1 firenze
+8 13 1
+firenze 2   2 milano
+8 13 2
+firenze 2   2 genova
+8 13 3
+barcelona 0   1 milano
+8 13 4
+venezia 1   0 turino
+8 13 5
+bologna 6   0 zagabria
+8 14 1
+firenze 0   1 turino
+8 14 2
+zagabria 1   2 turino
+8 14 3
+bologna 0   0 venezia
+8 14 4
+milano 5   0 genova
+8 15 1
+barcelona 2   2 firenze

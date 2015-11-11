@@ -1,0 +1,2878 @@
+0
+team      round score goal  fan
+firenze   14    32    26    108
+marsiglia 14    22    26    98
+milano    14    20    24    94
+turino    14    20    22    92
+genoa     14    17    19    86
+tunisia   14    17    18    85
+venezia   14    16    19    85
+bologna   14    10    15    75
+name           goal   team
+keegan         6      milano
+bergkemp       5      firenze
+ronaldo        4      milano
+rivera         4      turino
+careca         4      turino
+donadoni       4      turino
+zico           4      venezia
+socrates       4      venezia
+zidane         4      marsiglia
+matthaeus      4      marsiglia
+name           assist team
+desaily        7      marsiglia
+p.rossi        6      firenze
+keegan         5      milano
+hurst          5      milano
+daglish        4      genoa
+beckenbauer    4      tunisia
+garrincha      4      venezia
+vieri          4      bologna
+r.baggio       4      venezia
+cabrini        4      firenze
+name           score  team
+kopa           65      bologna
+g.muller       64      turino
+keegan         64      milano
+rivera         63      turino
+raul           62      turino
+careca         62      turino
+donadoni       61      turino
+ronaldo        61      milano
+garrincha      61      venezia
+b.chalton      61      bologna
+player       goal assist score
+kahn           0     0     5.800000000000001
+
+cantona        3     1     5.800000000000001
+
+ronaldo        4     4     6.1000000000000005
+
+rijkaard       1     1     6.0
+
+facchetti      2     1     5.9
+
+papin          4     2     6.0
+
+keegan         6     5     6.4
+
+bierhoff       0     2     5.9
+
+hurst          1     5     5.800000000000001
+
+kaka           2     1     5.5
+
+blanc          1     2     5.7
+
+score 20 goal 24 number of fans 94
+buffon         0     0     6.0
+
+eusebio        1     4     6.0
+
+rivera         4     3     6.300000000000001
+
+raul           0     2     6.2
+
+g.muller       2     4     6.4
+
+henry          1     0     5.6000000000000005
+
+careca         4     3     6.2
+
+conti          2     1     5.6000000000000005
+
+gascoigne      2     2     5.800000000000001
+
+donadoni       4     2     6.1000000000000005
+
+cassano        2     1     5.800000000000001
+
+score 20 goal 22 number of fans 92
+zoff           0     0     5.7
+
+gullit         2     2     5.800000000000001
+
+puskas         0     3     5.7
+
+b.moore        1     1     6.0
+
+baresi         2     4     5.7
+
+owen           2     1     5.9
+
+p.falcao       3     0     5.800000000000001
+
+daglish        2     4     5.9
+
+shevchenko     3     2     6.0
+
+deisler        1     1     6.0
+
+stam           3     1     5.9
+
+score 17 goal 19 number of fans 86
+chilavert      0     0     5.7
+
+cruyff         1     1     5.7
+
+v.basten       1     2     5.7
+
+garrincha      2     4     6.1000000000000005
+
+zico           4     3     5.800000000000001
+
+stoichkov      1     0     5.800000000000001
+
+kempes         3     1     5.7
+
+socrates       4     1     5.9
+
+r.baggio       2     4     6.0
+
+totti          1     1     5.7
+
+g.weah         0     2     5.800000000000001
+
+score 16 goal 19 number of fans 85
+zenga          0     0     5.6000000000000005
+
+platini        1     3     5.7
+
+nedved         3     2     6.0
+
+zidane         4     3     5.9
+
+m.laudrup      3     1     5.9
+
+matthaeus      4     1     5.800000000000001
+
+hagi           1     3     5.800000000000001
+
+desaily        4     7     6.0
+
+h.shanchez     0     2     5.5
+
+maldini        4     2     6.0
+
+r.keane        2     2     5.800000000000001
+
+score 22 goal 26 number of fans 98
+yashin         0     0     5.5
+
+beckenbauer    2     4     5.5
+
+ronaldinho     2     2     5.300000000000001
+
+r.koeman       1     1     5.4
+
+tostao         0     1     5.4
+
+rensenbrink    2     2     5.6000000000000005
+
+ballack        3     0     5.4
+
+crespo         0     1     5.300000000000001
+
+v.nistelrooy   4     3     5.7
+
+lampard        2     2     5.6000000000000005
+
+pele           2     2     5.6000000000000005
+
+score 17 goal 18 number of fans 85
+banks          0     0     5.7
+
+d.stifano      1     1     5.9
+
+b.chalton      0     0     6.1000000000000005
+
+g.best         2     1     5.7
+
+kopa           1     1     6.5
+
+vialli         2     2     6.0
+
+neeskens       2     3     6.0
+
+mancini        0     2     5.5
+
+trezeguet      3     0     5.7
+
+b.laudrup      2     1     5.800000000000001
+
+vieri          2     4     5.9
+
+score 10 goal 15 number of fans 75
+schmeichel     0     0     5.5
+
+maradona       2     3     5.7
+
+beckham        3     1     5.6000000000000005
+
+klinsman       0     0     5.2
+
+didi           3     3     5.800000000000001
+
+brehme         4     1     5.6000000000000005
+
+batistuta      2     3     5.6000000000000005
+
+cabrini        2     4     5.5
+
+p.rossi        2     6     5.9
+
+canavaro       3     3     5.6000000000000005
+
+bergkemp       5     2     5.800000000000001
+
+score 32 goal 26 number of fans 108
+papin from milano to turino
+rivera from turino to milano
+daglish from genoa to venezia
+stoichkov from venezia to genoa
+m.laudrup from marsiglia to tunisia
+ballack from tunisia to marsiglia
+neeskens from bologna to firenze
+canavaro from firenze to bologna
+#########################################################################
+########################################################################
+new season
+#####################################################################
+###################################################################
+1
+team      round score goal  fan
+tunisia   14    27    23    92
+marsiglia 14    26    24    99
+turino    14    22    25    93
+bologna   14    21    22    80
+milano    14    17    18    82
+venezia   14    16    14    72
+firenze   14    15    14    83
+genoa     14    10    15    68
+name           goal   team
+g.muller       7      turino
+blanc          6      milano
+canavaro       5      bologna
+mancini        4      bologna
+pele           4      tunisia
+papin          4      turino
+ballack        4      marsiglia
+careca         3      turino
+m.laudrup      3      tunisia
+r.keane        3      marsiglia
+name           assist team
+zidane         6      marsiglia
+trezeguet      6      bologna
+g.muller       5      turino
+ballack        4      marsiglia
+h.shanchez     4      marsiglia
+maradona       4      firenze
+crespo         4      tunisia
+rensenbrink    4      tunisia
+b.moore        4      genoa
+blanc          4      milano
+name           score  team
+didi           69      firenze
+zidane         68      marsiglia
+g.muller       67      turino
+d.stifano      67      bologna
+beckenbauer    66      tunisia
+canavaro       66      bologna
+bierhoff       66      milano
+r.keane        66      marsiglia
+papin          65      turino
+b.chalton      65      bologna
+player       goal assist score
+schmeichel     0     0     6.2
+
+maradona       3     4     6.5
+
+beckham        1     1     6.5
+
+klinsman       1     0     6.300000000000001
+
+didi           2     3     6.9
+
+brehme         1     0     6.300000000000001
+
+batistuta      2     1     6.4
+
+cabrini        1     1     6.300000000000001
+
+p.rossi        1     0     6.0
+
+neeskens       0     1     6.2
+
+bergkemp       2     3     6.300000000000001
+
+score 15 goal 14 number of fans 83
+zenga          0     0     6.1000000000000005
+
+platini        1     0     6.0
+
+nedved         2     1     6.5
+
+zidane         2     6     6.800000000000001
+
+ballack        4     4     6.4
+
+matthaeus      3     2     6.5
+
+hagi           2     0     6.4
+
+desaily        2     3     6.300000000000001
+
+h.shanchez     3     4     6.5
+
+maldini        2     1     6.300000000000001
+
+r.keane        3     3     6.6000000000000005
+
+score 26 goal 24 number of fans 99
+kahn           0     0     6.1000000000000005
+
+cantona        2     2     6.4
+
+ronaldo        2     2     6.1000000000000005
+
+rijkaard       1     3     6.2
+
+facchetti      0     1     6.2
+
+rivera         0     1     6.1000000000000005
+
+keegan         1     0     6.0
+
+bierhoff       1     1     6.6000000000000005
+
+hurst          2     3     6.5
+
+kaka           3     1     6.2
+
+blanc          6     4     6.5
+
+score 17 goal 18 number of fans 82
+buffon         0     0     6.1000000000000005
+
+eusebio        3     2     6.4
+
+papin          4     4     6.5
+
+raul           1     1     6.300000000000001
+
+g.muller       7     5     6.7
+
+henry          2     0     6.5
+
+careca         3     2     6.5
+
+conti          1     4     6.4
+
+gascoigne      3     1     6.5
+
+donadoni       0     4     6.2
+
+cassano        1     2     6.4
+
+score 22 goal 25 number of fans 93
+zoff           0     0     6.0
+
+gullit         1     4     6.2
+
+puskas         1     1     6.300000000000001
+
+b.moore        2     4     6.4
+
+baresi         1     0     6.4
+
+owen           1     2     6.300000000000001
+
+p.falcao       0     0     6.0
+
+stoichkov      1     2     6.5
+
+shevchenko     3     1     6.4
+
+deisler        2     1     6.5
+
+stam           3     0     6.300000000000001
+
+score 10 goal 15 number of fans 68
+yashin         0     0     6.300000000000001
+
+beckenbauer    2     2     6.6000000000000005
+
+ronaldinho     1     4     6.5
+
+r.koeman       1     2     6.2
+
+tostao         1     1     6.300000000000001
+
+rensenbrink    2     4     6.5
+
+m.laudrup      3     2     6.5
+
+crespo         3     4     6.300000000000001
+
+v.nistelrooy   3     1     6.4
+
+lampard        3     1     6.5
+
+pele           4     2     6.5
+
+score 27 goal 23 number of fans 92
+chilavert      0     0     6.2
+
+cruyff         1     0     6.1000000000000005
+
+v.basten       1     1     6.1000000000000005
+
+garrincha      1     1     6.4
+
+zico           1     0     6.5
+
+daglish        2     1     6.5
+
+kempes         1     1     6.4
+
+socrates       1     1     6.2
+
+r.baggio       3     2     6.4
+
+totti          2     3     6.5
+
+g.weah         1     4     6.5
+
+score 16 goal 14 number of fans 72
+banks          0     0     6.1000000000000005
+
+d.stifano      1     1     6.7
+
+b.chalton      2     3     6.5
+
+g.best         2     1     6.1000000000000005
+
+kopa           1     1     6.4
+
+vialli         3     0     6.4
+
+canavaro       5     2     6.6000000000000005
+
+mancini        4     3     6.5
+
+trezeguet      0     6     6.1000000000000005
+
+b.laudrup      1     2     6.4
+
+vieri          3     3     6.4
+
+score 21 goal 22 number of fans 80
+didi from firenze to marsiglia
+r.keane from marsiglia to firenze
+facchetti from milano to turino
+donadoni from turino to milano
+p.falcao from genoa to tunisia
+m.laudrup from tunisia to genoa
+g.weah from venezia to bologna
+kopa from bologna to venezia
+####################################################################
+####################################################################
+##########################season end################################
+####################################################################
+####################################################################
+1
+team      round score goal  fan
+tunisia   14    27    23    92
+marsiglia 14    26    24    99
+turino    14    22    25    93
+bologna   14    21    22    80
+milano    14    17    18    82
+venezia   14    16    14    72
+firenze   14    15    14    83
+genoa     14    10    15    68
+name           goal   team
+g.muller       7      turino
+blanc          6      milano
+canavaro       5      bologna
+ballack        4      marsiglia
+pele           4      tunisia
+papin          4      turino
+mancini        4      bologna
+eusebio        3      turino
+matthaeus      3      marsiglia
+h.shanchez     3      marsiglia
+name           assist team
+zidane         6      marsiglia
+trezeguet      6      bologna
+g.muller       5      turino
+papin          4      turino
+h.shanchez     4      marsiglia
+crespo         4      tunisia
+maradona       4      firenze
+b.moore        4      genoa
+rensenbrink    4      tunisia
+blanc          4      milano
+name           score  team
+didi           69      firenze
+zidane         68      marsiglia
+g.muller       67      turino
+d.stifano      67      bologna
+canavaro       66      bologna
+beckenbauer    66      tunisia
+bierhoff       66      milano
+r.keane        66      marsiglia
+g.weah         65      venezia
+b.chalton      65      bologna
+player       goal assist score
+schmeichel     0     0     6.2
+
+maradona       3     4     6.5
+
+beckham        1     1     6.5
+
+klinsman       1     0     6.300000000000001
+
+didi           2     3     6.9
+
+brehme         1     0     6.300000000000001
+
+batistuta      2     1     6.4
+
+cabrini        1     1     6.300000000000001
+
+p.rossi        1     0     6.0
+
+neeskens       0     1     6.2
+
+bergkemp       2     3     6.300000000000001
+
+score 15 goal 14 number of fans 83
+zenga          0     0     6.1000000000000005
+
+platini        1     0     6.0
+
+nedved         2     1     6.5
+
+zidane         2     6     6.800000000000001
+
+ballack        4     4     6.4
+
+matthaeus      3     2     6.5
+
+hagi           2     0     6.4
+
+desaily        2     3     6.300000000000001
+
+h.shanchez     3     4     6.5
+
+maldini        2     1     6.300000000000001
+
+r.keane        3     3     6.6000000000000005
+
+score 26 goal 24 number of fans 99
+kahn           0     0     6.1000000000000005
+
+cantona        2     2     6.4
+
+ronaldo        2     2     6.1000000000000005
+
+rijkaard       1     3     6.2
+
+facchetti      0     1     6.2
+
+rivera         0     1     6.1000000000000005
+
+keegan         1     0     6.0
+
+bierhoff       1     1     6.6000000000000005
+
+hurst          2     3     6.5
+
+kaka           3     1     6.2
+
+blanc          6     4     6.5
+
+score 17 goal 18 number of fans 82
+buffon         0     0     6.1000000000000005
+
+eusebio        3     2     6.4
+
+papin          4     4     6.5
+
+raul           1     1     6.300000000000001
+
+g.muller       7     5     6.7
+
+henry          2     0     6.5
+
+careca         3     2     6.5
+
+conti          1     4     6.4
+
+gascoigne      3     1     6.5
+
+donadoni       0     4     6.2
+
+cassano        1     2     6.4
+
+score 22 goal 25 number of fans 93
+zoff           0     0     6.0
+
+gullit         1     4     6.2
+
+puskas         1     1     6.300000000000001
+
+b.moore        2     4     6.4
+
+baresi         1     0     6.4
+
+owen           1     2     6.300000000000001
+
+p.falcao       0     0     6.0
+
+stoichkov      1     2     6.5
+
+shevchenko     3     1     6.4
+
+deisler        2     1     6.5
+
+stam           3     0     6.300000000000001
+
+score 10 goal 15 number of fans 68
+yashin         0     0     6.300000000000001
+
+beckenbauer    2     2     6.6000000000000005
+
+ronaldinho     1     4     6.5
+
+r.koeman       1     2     6.2
+
+tostao         1     1     6.300000000000001
+
+rensenbrink    2     4     6.5
+
+m.laudrup      3     2     6.5
+
+crespo         3     4     6.300000000000001
+
+v.nistelrooy   3     1     6.4
+
+lampard        3     1     6.5
+
+pele           4     2     6.5
+
+score 27 goal 23 number of fans 92
+chilavert      0     0     6.2
+
+cruyff         1     0     6.1000000000000005
+
+v.basten       1     1     6.1000000000000005
+
+garrincha      1     1     6.4
+
+zico           1     0     6.5
+
+daglish        2     1     6.5
+
+kempes         1     1     6.4
+
+socrates       1     1     6.2
+
+r.baggio       3     2     6.4
+
+totti          2     3     6.5
+
+g.weah         1     4     6.5
+
+score 16 goal 14 number of fans 72
+banks          0     0     6.1000000000000005
+
+d.stifano      1     1     6.7
+
+b.chalton      2     3     6.5
+
+g.best         2     1     6.1000000000000005
+
+kopa           1     1     6.4
+
+vialli         3     0     6.4
+
+canavaro       5     2     6.6000000000000005
+
+mancini        4     3     6.5
+
+trezeguet      0     6     6.1000000000000005
+
+b.laudrup      1     2     6.4
+
+vieri          3     3     6.4
+
+score 21 goal 22 number of fans 80
+neeskens from firenze to marsiglia
+maldini from marsiglia to firenze
+rijkaard from milano to turino
+conti from turino to milano
+baresi from genoa to tunisia
+r.koeman from tunisia to genoa
+daglish from venezia to bologna
+d.stifano from bologna to venezia
+###################################################################
+###################################################################
+####################new season###################################
+######################################################################
+######################################################################
+2
+team      round score goal  fan
+turino    14    25    23    94
+venezia   14    25    23    84
+bologna   14    21    19    80
+tunisia   14    18    19    83
+marsiglia 14    17    20    86
+genoa     14    17    14    65
+firenze   14    16    18    75
+milano    14    13    16    70
+name           goal   team
+kempes         6      venezia
+papin          5      turino
+desaily        5      marsiglia
+d.stifano      5      venezia
+platini        5      marsiglia
+henry          5      turino
+maradona       4      firenze
+batistuta      4      firenze
+stam           4      genoa
+crespo         4      tunisia
+name           assist team
+stam           7      genoa
+g.weah         6      venezia
+raul           4      turino
+kempes         4      venezia
+bierhoff       4      milano
+v.nistelrooy   4      tunisia
+rijkaard       4      turino
+eusebio        4      turino
+matthaeus      3      marsiglia
+h.shanchez     3      marsiglia
+name           score  team
+kempes         68      venezia
+maradona       68      firenze
+kaka           68      milano
+m.laudrup      67      tunisia
+papin          67      turino
+nedved         66      marsiglia
+batistuta      66      firenze
+mancini        66      bologna
+stam           66      genoa
+deisler        66      genoa
+player       goal assist score
+yashin         0     0     6.0
+
+beckenbauer    1     1     6.300000000000001
+
+ronaldinho     3     1     6.5
+
+baresi         0     3     6.2
+
+tostao         1     1     6.5
+
+rensenbrink    3     2     6.5
+
+m.laudrup      2     2     6.7
+
+crespo         4     1     6.6000000000000005
+
+v.nistelrooy   1     4     6.4
+
+lampard        1     2     6.300000000000001
+
+pele           3     2     6.4
+
+score 18 goal 19 number of fans 83
+zenga          0     0     6.4
+
+platini        5     2     6.4
+
+nedved         2     2     6.6000000000000005
+
+zidane         0     2     6.4
+
+ballack        2     1     6.300000000000001
+
+matthaeus      2     3     6.5
+
+hagi           1     0     6.300000000000001
+
+desaily        5     3     6.5
+
+h.shanchez     2     3     6.4
+
+neeskens       1     3     6.4
+
+r.keane        0     1     6.1000000000000005
+
+score 17 goal 20 number of fans 86
+buffon         0     0     6.4
+
+eusebio        1     4     6.5
+
+papin          5     2     6.7
+
+raul           3     4     6.4
+
+g.muller       1     2     6.300000000000001
+
+henry          5     0     6.4
+
+careca         0     3     6.2
+
+rijkaard       1     4     6.5
+
+gascoigne      3     2     6.5
+
+donadoni       2     2     6.5
+
+cassano        2     0     6.300000000000001
+
+score 25 goal 23 number of fans 94
+banks          0     0     6.0
+
+daglish        3     2     6.4
+
+b.chalton      1     1     6.5
+
+g.best         3     2     6.2
+
+kopa           3     3     6.5
+
+vialli         2     3     6.300000000000001
+
+canavaro       3     2     6.5
+
+mancini        1     2     6.6000000000000005
+
+trezeguet      1     2     6.300000000000001
+
+b.laudrup      1     0     6.300000000000001
+
+vieri          1     2     6.2
+
+score 21 goal 19 number of fans 80
+kahn           0     0     6.2
+
+cantona        2     2     6.300000000000001
+
+ronaldo        2     2     6.300000000000001
+
+conti          2     1     6.2
+
+facchetti      3     0     6.6000000000000005
+
+rivera         1     2     6.4
+
+keegan         0     1     6.5
+
+bierhoff       2     4     6.4
+
+hurst          2     2     6.4
+
+kaka           2     2     6.800000000000001
+
+blanc          0     0     6.2
+
+score 13 goal 16 number of fans 70
+chilavert      0     0     6.300000000000001
+
+cruyff         0     2     6.2
+
+v.basten       1     2     6.300000000000001
+
+garrincha      1     1     6.2
+
+zico           1     3     6.4
+
+d.stifano      5     1     6.5
+
+kempes         6     4     6.800000000000001
+
+socrates       2     2     6.5
+
+r.baggio       2     1     6.4
+
+totti          2     1     6.300000000000001
+
+g.weah         3     6     6.5
+
+score 25 goal 23 number of fans 84
+schmeichel     0     0     6.4
+
+maradona       4     3     6.800000000000001
+
+beckham        1     3     6.300000000000001
+
+klinsman       1     1     6.300000000000001
+
+didi           0     2     6.1000000000000005
+
+brehme         2     1     6.2
+
+batistuta      4     2     6.6000000000000005
+
+cabrini        0     0     6.0
+
+p.rossi        2     1     6.300000000000001
+
+maldini        1     2     6.300000000000001
+
+bergkemp       3     3     6.300000000000001
+
+score 16 goal 18 number of fans 75
+zoff           0     0     6.1000000000000005
+
+gullit         1     0     6.2
+
+puskas         0     0     6.1000000000000005
+
+b.moore        0     1     6.4
+
+r.koeman       1     1     6.4
+
+owen           3     0     6.5
+
+p.falcao       2     0     6.5
+
+stoichkov      1     0     6.1000000000000005
+
+shevchenko     2     3     6.300000000000001
+
+deisler        0     2     6.6000000000000005
+
+stam           4     7     6.6000000000000005
+
+score 17 goal 14 number of fans 65
+lampard from tunisia to marsiglia
+nedved from marsiglia to tunisia
+g.muller from turino to bologna
+trezeguet from bologna to turino
+ronaldo from milano to venezia
+v.basten from venezia to milano
+bergkemp from firenze to genoa
+deisler from genoa to firenze
+###################################################################
+###################################################################
+####################new season###################################
+######################################################################
+######################################################################
+2 turin win 2nd time
+team      round score goal  fan
+turino    14    25    23    94
+venezia   14    25    23    84
+bologna   14    21    19    80
+tunisia   14    18    19    83
+marsiglia 14    17    20    86
+genoa     14    17    14    65
+firenze   14    16    18    75
+milano    14    13    16    70
+name           goal   team
+kempes         6      venezia
+desaily        5      marsiglia
+papin          5      turino
+henry          5      turino
+d.stifano      5      venezia
+platini        5      marsiglia
+crespo         4      tunisia
+maradona       4      firenze
+batistuta      4      firenze
+stam           4      genoa
+name           assist team
+stam           7      genoa
+g.weah         6      venezia
+kempes         4      venezia
+raul           4      turino
+bierhoff       4      milano
+rijkaard       4      turino
+v.nistelrooy   4      tunisia
+eusebio        4      turino
+kopa           3      bologna
+h.shanchez     3      marsiglia
+name           score  team
+kempes         68      venezia
+maradona       68      firenze
+kaka           68      milano
+papin          67      turino
+m.laudrup      67      tunisia
+nedved         66      marsiglia
+batistuta      66      firenze
+mancini        66      bologna
+stam           66      genoa
+deisler        66      genoa
+player       goal assist score
+yashin         0     0     6.0
+
+beckenbauer    1     1     6.300000000000001
+
+ronaldinho     3     1     6.5
+
+baresi         0     3     6.2
+
+tostao         1     1     6.5
+
+rensenbrink    3     2     6.5
+
+m.laudrup      2     2     6.7
+
+crespo         4     1     6.6000000000000005
+
+v.nistelrooy   1     4     6.4
+
+lampard        1     2     6.300000000000001
+
+pele           3     2     6.4
+
+score 18 goal 19 number of fans 83
+zenga          0     0     6.4
+
+platini        5     2     6.4
+
+nedved         2     2     6.6000000000000005
+
+zidane         0     2     6.4
+
+ballack        2     1     6.300000000000001
+
+matthaeus      2     3     6.5
+
+hagi           1     0     6.300000000000001
+
+desaily        5     3     6.5
+
+h.shanchez     2     3     6.4
+
+neeskens       1     3     6.4
+
+r.keane        0     1     6.1000000000000005
+
+score 17 goal 20 number of fans 86
+buffon         0     0     6.4
+
+eusebio        1     4     6.5
+
+papin          5     2     6.7
+
+raul           3     4     6.4
+
+g.muller       1     2     6.300000000000001
+
+henry          5     0     6.4
+
+careca         0     3     6.2
+
+rijkaard       1     4     6.5
+
+gascoigne      3     2     6.5
+
+donadoni       2     2     6.5
+
+cassano        2     0     6.300000000000001
+
+score 25 goal 23 number of fans 94
+banks          0     0     6.0
+
+daglish        3     2     6.4
+
+b.chalton      1     1     6.5
+
+g.best         3     2     6.2
+
+kopa           3     3     6.5
+
+vialli         2     3     6.300000000000001
+
+canavaro       3     2     6.5
+
+mancini        1     2     6.6000000000000005
+
+trezeguet      1     2     6.300000000000001
+
+b.laudrup      1     0     6.300000000000001
+
+vieri          1     2     6.2
+
+score 21 goal 19 number of fans 80
+kahn           0     0     6.2
+
+cantona        2     2     6.300000000000001
+
+ronaldo        2     2     6.300000000000001
+
+conti          2     1     6.2
+
+facchetti      3     0     6.6000000000000005
+
+rivera         1     2     6.4
+
+keegan         0     1     6.5
+
+bierhoff       2     4     6.4
+
+hurst          2     2     6.4
+
+kaka           2     2     6.800000000000001
+
+blanc          0     0     6.2
+
+score 13 goal 16 number of fans 70
+chilavert      0     0     6.300000000000001
+
+cruyff         0     2     6.2
+
+v.basten       1     2     6.300000000000001
+
+garrincha      1     1     6.2
+
+zico           1     3     6.4
+
+d.stifano      5     1     6.5
+
+kempes         6     4     6.800000000000001
+
+socrates       2     2     6.5
+
+r.baggio       2     1     6.4
+
+totti          2     1     6.300000000000001
+
+g.weah         3     6     6.5
+
+score 25 goal 23 number of fans 84
+schmeichel     0     0     6.4
+
+maradona       4     3     6.800000000000001
+
+beckham        1     3     6.300000000000001
+
+klinsman       1     1     6.300000000000001
+
+didi           0     2     6.1000000000000005
+
+brehme         2     1     6.2
+
+batistuta      4     2     6.6000000000000005
+
+cabrini        0     0     6.0
+
+p.rossi        2     1     6.300000000000001
+
+maldini        1     2     6.300000000000001
+
+bergkemp       3     3     6.300000000000001
+
+score 16 goal 18 number of fans 75
+zoff           0     0     6.1000000000000005
+
+gullit         1     0     6.2
+
+puskas         0     0     6.1000000000000005
+
+b.moore        0     1     6.4
+
+r.koeman       1     1     6.4
+
+owen           3     0     6.5
+
+p.falcao       2     0     6.5
+
+stoichkov      1     0     6.1000000000000005
+
+shevchenko     2     3     6.300000000000001
+
+deisler        0     2     6.6000000000000005
+
+stam           4     7     6.6000000000000005
+
+score 17 goal 14 number of fans 65
+rensenbrink from tunisia to marsiglia
+desaily from marsiglia to tunisia
+gascoigne from turino to bologna
+kopa from bologna to turino
+kaka from milano to venezia
+g.weah from venezia to milano
+beckham from firenze to genoa
+p.falcao from genoa to firenze
+2
+team      round score goal  fan
+turino    14    25    23    94
+venezia   14    25    23    84
+bologna   14    21    19    80
+tunisia   14    18    19    83
+marsiglia 14    17    20    86
+genoa     14    17    14    65
+firenze   14    16    18    75
+milano    14    13    16    70
+name           goal   team
+kempes         6      venezia
+desaily        5      marsiglia
+papin          5      turino
+henry          5      turino
+d.stifano      5      venezia
+platini        5      marsiglia
+crespo         4      tunisia
+maradona       4      firenze
+batistuta      4      firenze
+stam           4      genoa
+name           assist team
+stam           7      genoa
+g.weah         6      venezia
+kempes         4      venezia
+raul           4      turino
+bierhoff       4      milano
+rijkaard       4      turino
+v.nistelrooy   4      tunisia
+eusebio        4      turino
+kopa           3      bologna
+h.shanchez     3      marsiglia
+name           score  team
+kempes         68      venezia
+maradona       68      firenze
+kaka           68      milano
+papin          67      turino
+m.laudrup      67      tunisia
+nedved         66      marsiglia
+batistuta      66      firenze
+mancini        66      bologna
+stam           66      genoa
+deisler        66      genoa
+player       goal assist score
+yashin         0     0     6.0
+
+beckenbauer    1     1     6.300000000000001
+
+ronaldinho     3     1     6.5
+
+baresi         0     3     6.2
+
+tostao         1     1     6.5
+
+rensenbrink    3     2     6.5
+
+m.laudrup      2     2     6.7
+
+crespo         4     1     6.6000000000000005
+
+v.nistelrooy   1     4     6.4
+
+lampard        1     2     6.300000000000001
+
+pele           3     2     6.4
+
+score 18 goal 19 number of fans 83
+zenga          0     0     6.4
+
+platini        5     2     6.4
+
+nedved         2     2     6.6000000000000005
+
+zidane         0     2     6.4
+
+ballack        2     1     6.300000000000001
+
+matthaeus      2     3     6.5
+
+hagi           1     0     6.300000000000001
+
+desaily        5     3     6.5
+
+h.shanchez     2     3     6.4
+
+neeskens       1     3     6.4
+
+r.keane        0     1     6.1000000000000005
+
+score 17 goal 20 number of fans 86
+buffon         0     0     6.4
+
+eusebio        1     4     6.5
+
+papin          5     2     6.7
+
+raul           3     4     6.4
+
+g.muller       1     2     6.300000000000001
+
+henry          5     0     6.4
+
+careca         0     3     6.2
+
+rijkaard       1     4     6.5
+
+gascoigne      3     2     6.5
+
+donadoni       2     2     6.5
+
+cassano        2     0     6.300000000000001
+
+score 25 goal 23 number of fans 94
+banks          0     0     6.0
+
+daglish        3     2     6.4
+
+b.chalton      1     1     6.5
+
+g.best         3     2     6.2
+
+kopa           3     3     6.5
+
+vialli         2     3     6.300000000000001
+
+canavaro       3     2     6.5
+
+mancini        1     2     6.6000000000000005
+
+trezeguet      1     2     6.300000000000001
+
+b.laudrup      1     0     6.300000000000001
+
+vieri          1     2     6.2
+
+score 21 goal 19 number of fans 80
+kahn           0     0     6.2
+
+cantona        2     2     6.300000000000001
+
+ronaldo        2     2     6.300000000000001
+
+conti          2     1     6.2
+
+facchetti      3     0     6.6000000000000005
+
+rivera         1     2     6.4
+
+keegan         0     1     6.5
+
+bierhoff       2     4     6.4
+
+hurst          2     2     6.4
+
+kaka           2     2     6.800000000000001
+
+blanc          0     0     6.2
+
+score 13 goal 16 number of fans 70
+chilavert      0     0     6.300000000000001
+
+cruyff         0     2     6.2
+
+v.basten       1     2     6.300000000000001
+
+garrincha      1     1     6.2
+
+zico           1     3     6.4
+
+d.stifano      5     1     6.5
+
+kempes         6     4     6.800000000000001
+
+socrates       2     2     6.5
+
+r.baggio       2     1     6.4
+
+totti          2     1     6.300000000000001
+
+g.weah         3     6     6.5
+
+score 25 goal 23 number of fans 84
+schmeichel     0     0     6.4
+
+maradona       4     3     6.800000000000001
+
+beckham        1     3     6.300000000000001
+
+klinsman       1     1     6.300000000000001
+
+didi           0     2     6.1000000000000005
+
+brehme         2     1     6.2
+
+batistuta      4     2     6.6000000000000005
+
+cabrini        0     0     6.0
+
+p.rossi        2     1     6.300000000000001
+
+maldini        1     2     6.300000000000001
+
+bergkemp       3     3     6.300000000000001
+
+score 16 goal 18 number of fans 75
+zoff           0     0     6.1000000000000005
+
+gullit         1     0     6.2
+
+puskas         0     0     6.1000000000000005
+
+b.moore        0     1     6.4
+
+r.koeman       1     1     6.4
+
+owen           3     0     6.5
+
+p.falcao       2     0     6.5
+
+stoichkov      1     0     6.1000000000000005
+
+shevchenko     2     3     6.300000000000001
+
+deisler        0     2     6.6000000000000005
+
+stam           4     7     6.6000000000000005
+
+score 17 goal 14 number of fans 65
+beckenbauer from tunisia to marsiglia
+platini from marsiglia to tunisia
+eusebio from turino to bologna
+daglish from bologna to turino
+bierhoff from milano to venezia
+d.stifano from venezia to milano
+maldini from firenze to genoa
+puskas from genoa to firenze
+########################################################################
+###############################################################
+#######################################################3
+team      round score goal  fan
+firenze   14    26    20    83
+barcelona 14    20    22    83
+milano    14    20    19    74
+turino    14    20    17    84
+venezia   14    19    13    74
+marsiglia 14    17    20    80
+bologna   14    17    15    72
+genoa     14    15    13    60
+name           goal   team
+henry          4      turino
+careca         4      turino
+kopa           4      bologna
+platini        4      barcelona
+m.laudrup      4      barcelona
+zidane         4      marsiglia
+deisler        4      genoa
+beckham        4      firenze
+cantona        4      milano
+ronaldinho     3      barcelona
+name           assist team
+g.best         6      bologna
+r.keane        5      marsiglia
+maradona       5      firenze
+cantona        5      milano
+matthaeus      5      marsiglia
+m.laudrup      4      barcelona
+baresi         4      barcelona
+blanc          4      milano
+trezeguet      3      bologna
+v.nistelrooy   3      barcelona
+name           score  team
+cantona        68      milano
+beckenbauer    68      marsiglia
+shevchenko     68      genoa
+henry          68      turino
+trezeguet      67      bologna
+papin          67      turino
+platini        67      barcelona
+r.keane        67      marsiglia
+owen           67      genoa
+raul           67      turino
+player       goal assist score
+buffon         0     0     6.0
+
+daglish        1     2     6.2
+
+papin          0     3     6.7
+
+raul           3     1     6.7
+
+g.muller       2     0     6.4
+
+henry          4     2     6.800000000000001
+
+careca         4     2     6.300000000000001
+
+rijkaard       2     1     6.0
+
+gascoigne      1     3     6.6000000000000005
+
+donadoni       0     1     6.0
+
+cassano        0     2     6.1000000000000005
+
+score 20 goal 17 number of fans 84
+chilavert      0     0     6.4
+
+cruyff         0     1     6.2
+
+v.basten       0     0     6.5
+
+garrincha      0     0     6.300000000000001
+
+zico           3     1     6.4
+
+bierhoff       2     2     6.300000000000001
+
+kempes         3     2     6.5
+
+socrates       1     2     6.1000000000000005
+
+r.baggio       1     1     6.300000000000001
+
+totti          0     2     6.0
+
+g.weah         3     2     6.6000000000000005
+
+score 19 goal 13 number of fans 74
+banks          0     0     6.0
+
+eusebio        1     1     6.1000000000000005
+
+b.chalton      0     0     6.0
+
+g.best         1     6     6.6000000000000005
+
+kopa           4     2     6.5
+
+vialli         2     0     6.300000000000001
+
+canavaro       0     1     6.4
+
+mancini        1     0     6.5
+
+trezeguet      2     3     6.7
+
+b.laudrup      3     1     6.7
+
+vieri          1     1     6.300000000000001
+
+score 17 goal 15 number of fans 72
+yashin         0     0     6.2
+
+platini        4     2     6.7
+
+ronaldinho     3     3     6.6000000000000005
+
+baresi         1     4     6.5
+
+tostao         3     1     6.5
+
+rensenbrink    1     0     6.5
+
+m.laudrup      4     4     6.5
+
+crespo         1     2     6.300000000000001
+
+v.nistelrooy   2     3     6.6000000000000005
+
+lampard        1     2     6.0
+
+pele           2     1     6.4
+
+score 20 goal 22 number of fans 83
+zenga          0     0     6.300000000000001
+
+beckenbauer    3     3     6.800000000000001
+
+nedved         3     1     6.5
+
+zidane         4     1     6.7
+
+ballack        1     0     6.0
+
+matthaeus      0     5     6.300000000000001
+
+hagi           2     0     6.0
+
+desaily        3     2     6.300000000000001
+
+h.shanchez     0     1     6.1000000000000005
+
+neeskens       1     2     6.300000000000001
+
+r.keane        3     5     6.7
+
+score 17 goal 20 number of fans 80
+zoff           0     0     6.0
+
+gullit         0     1     6.4
+
+maldini        1     2     6.300000000000001
+
+b.moore        3     0     6.4
+
+r.koeman       0     1     6.2
+
+owen           3     2     6.7
+
+p.falcao       1     0     6.1000000000000005
+
+stoichkov      0     3     6.4
+
+shevchenko     0     3     6.800000000000001
+
+deisler        4     1     6.5
+
+stam           1     0     6.2
+
+score 15 goal 13 number of fans 60
+schmeichel     0     0     6.4
+
+maradona       3     5     6.5
+
+beckham        4     2     6.2
+
+klinsman       3     2     6.5
+
+didi           2     1     6.4
+
+brehme         2     2     6.2
+
+batistuta      0     1     6.1000000000000005
+
+cabrini        2     3     6.5
+
+p.rossi        0     0     6.2
+
+puskas         3     1     6.6000000000000005
+
+bergkemp       1     3     6.5
+
+score 26 goal 20 number of fans 83
+kahn           0     0     6.2
+
+cantona        4     5     6.800000000000001
+
+ronaldo        1     3     6.2
+
+conti          2     1     6.4
+
+facchetti      1     2     6.300000000000001
+
+rivera         0     0     6.0
+
+keegan         3     0     6.5
+
+d.stifano      1     2     6.4
+
+hurst          1     1     6.1000000000000005
+
+kaka           3     1     6.6000000000000005
+
+blanc          3     4     6.6000000000000005
+
+score 20 goal 19 number of fans 74
+gascoigne from turino to venezia
+bierhoff from venezia to turino
+vialli from bologna to barcelona
+crespo from barcelona to bologna
+matthaeus from marsiglia to genoa
+stoichkov from genoa to marsiglia
+batistuta from firenze to milano
+blanc from milano to firenze
+4
+team      round score goal  fan
+turino    14    27    19    102
+marsiglia 14    23    17    93
+firenze   14    23    15    93
+milano    14    18    19    86
+venezia   14    17    15    81
+genoa     14    17    13    70
+bologna   14    16    18    82
+barcelona 14    14    15    84
+name           goal   team
+daglish        5      turino
+desaily        4      marsiglia
+kempes         4      venezia
+canavaro       4      bologna
+mancini        3      bologna
+crespo         3      bologna
+p.falcao       3      genoa
+klinsman       3      firenze
+careca         3      turino
+tostao         3      barcelona
+name           assist team
+didi           6      firenze
+daglish        5      turino
+crespo         4      bologna
+kempes         4      venezia
+conti          4      milano
+garrincha      4      venezia
+neeskens       4      marsiglia
+tostao         3      barcelona
+cantona        3      milano
+beckenbauer    3      marsiglia
+name           score  team
+didi           69      firenze
+daglish        68      turino
+desaily        68      marsiglia
+g.muller       67      turino
+papin          66      turino
+eusebio        66      bologna
+raul           66      turino
+kempes         66      venezia
+mancini        66      bologna
+conti          66      milano
+player       goal assist score
+schmeichel     0     0     6.6000000000000005
+
+maradona       1     1     6.4
+
+beckham        2     2     6.300000000000001
+
+klinsman       3     2     6.5
+
+didi           2     6     6.9
+
+brehme         0     1     6.2
+
+blanc          3     1     6.5
+
+cabrini        0     0     6.1000000000000005
+
+p.rossi        1     1     6.1000000000000005
+
+puskas         3     0     6.2
+
+bergkemp       0     1     6.300000000000001
+
+score 23 goal 15 number of fans 93
+yashin         0     0     6.2
+
+platini        1     3     6.5
+
+ronaldinho     2     2     6.4
+
+baresi         1     1     6.300000000000001
+
+tostao         3     3     6.5
+
+rensenbrink    2     2     6.5
+
+m.laudrup      0     1     6.300000000000001
+
+vialli         1     2     6.0
+
+v.nistelrooy   2     0     6.4
+
+lampard        3     1     6.300000000000001
+
+pele           0     0     6.4
+
+score 14 goal 15 number of fans 84
+kahn           0     0     6.0
+
+cantona        3     3     6.5
+
+ronaldo        1     3     6.5
+
+conti          2     4     6.6000000000000005
+
+facchetti      2     2     6.5
+
+rivera         1     2     6.5
+
+keegan         3     1     6.1000000000000005
+
+d.stifano      0     0     6.4
+
+hurst          2     1     6.300000000000001
+
+kaka           2     0     6.300000000000001
+
+batistuta      3     3     6.4
+
+score 18 goal 19 number of fans 86
+buffon         0     0     6.0
+
+daglish        5     5     6.800000000000001
+
+papin          3     3     6.6000000000000005
+
+raul           2     2     6.6000000000000005
+
+g.muller       2     1     6.7
+
+henry          0     1     6.4
+
+careca         3     2     6.5
+
+rijkaard       2     3     6.5
+
+bierhoff       0     1     6.1000000000000005
+
+donadoni       1     0     6.1000000000000005
+
+cassano        1     1     6.1000000000000005
+
+score 27 goal 19 number of fans 102
+chilavert      0     0     6.4
+
+cruyff         0     2     6.2
+
+v.basten       3     0     6.5
+
+garrincha      1     4     6.2
+
+zico           2     2     6.300000000000001
+
+gascoigne      1     1     6.5
+
+kempes         4     4     6.6000000000000005
+
+socrates       2     1     6.0
+
+r.baggio       1     0     6.4
+
+totti          1     0     6.0
+
+g.weah         0     1     6.2
+
+score 17 goal 15 number of fans 81
+zenga          0     0     6.1000000000000005
+
+beckenbauer    2     3     6.4
+
+nedved         2     1     6.4
+
+zidane         1     2     6.4
+
+ballack        3     2     6.4
+
+stoichkov      2     0     6.4
+
+hagi           0     1     6.1000000000000005
+
+desaily        4     1     6.800000000000001
+
+h.shanchez     2     2     6.300000000000001
+
+neeskens       0     4     6.5
+
+r.keane        1     1     6.2
+
+score 23 goal 17 number of fans 93
+banks          0     0     6.300000000000001
+
+eusebio        0     2     6.6000000000000005
+
+b.chalton      3     1     6.4
+
+g.best         1     3     6.4
+
+kopa           1     0     6.0
+
+crespo         3     4     6.5
+
+canavaro       4     1     6.5
+
+mancini        3     1     6.6000000000000005
+
+trezeguet      0     2     6.0
+
+b.laudrup      2     2     6.300000000000001
+
+vieri          1     2     6.0
+
+score 16 goal 18 number of fans 82
+zoff           0     0     6.300000000000001
+
+gullit         1     1     6.300000000000001
+
+maldini        2     1     6.5
+
+b.moore        1     0     6.1000000000000005
+
+r.koeman       2     2     6.300000000000001
+
+owen           2     1     6.300000000000001
+
+p.falcao       3     2     6.5
+
+matthaeus      1     1     6.1000000000000005
+
+shevchenko     0     1     6.300000000000001
+
+deisler        0     2     6.300000000000001
+
+stam           1     2     6.300000000000001
+
+score 17 goal 13 number of fans 70
+brehme from firenze to barcelona
+pele from barcelona to firenze
+keegan from milano to turino
+henry from turino to milano
+r.baggio from venezia to marsiglia
+desaily from marsiglia to venezia
+trezeguet from bologna to genoa
+b.moore from genoa to bologna
+######################################################################
+#######################################################################
+########################################################################
+4
+team      round score goal  fan
+turino    14    27    19    102
+marsiglia 14    23    17    93
+firenze   14    23    15    93
+milano    14    18    19    86
+venezia   14    17    15    81
+genoa     14    17    13    70
+bologna   14    16    18    82
+barcelona 14    14    15    84
+name           goal   team
+daglish        5      turino
+kempes         4      venezia
+desaily        4      marsiglia
+canavaro       4      bologna
+lampard        3      barcelona
+cantona        3      milano
+keegan         3      milano
+batistuta      3      milano
+klinsman       3      firenze
+papin          3      turino
+name           assist team
+didi           6      firenze
+daglish        5      turino
+crespo         4      bologna
+conti          4      milano
+kempes         4      venezia
+garrincha      4      venezia
+neeskens       4      marsiglia
+rijkaard       3      turino
+batistuta      3      milano
+beckenbauer    3      marsiglia
+name           score  team
+didi           69      firenze
+daglish        68      turino
+desaily        68      marsiglia
+g.muller       67      turino
+papin          66      turino
+raul           66      turino
+eusebio        66      bologna
+mancini        66      bologna
+conti          66      milano
+kempes         66      venezia
+player       goal assist score
+schmeichel     0     0     6.6000000000000005
+
+maradona       1     1     6.4
+
+beckham        2     2     6.300000000000001
+
+klinsman       3     2     6.5
+
+didi           2     6     6.9
+
+brehme         0     1     6.2
+
+blanc          3     1     6.5
+
+cabrini        0     0     6.1000000000000005
+
+p.rossi        1     1     6.1000000000000005
+
+puskas         3     0     6.2
+
+bergkemp       0     1     6.300000000000001
+
+score 23 goal 15 number of fans 93
+yashin         0     0     6.2
+
+platini        1     3     6.5
+
+ronaldinho     2     2     6.4
+
+baresi         1     1     6.300000000000001
+
+tostao         3     3     6.5
+
+rensenbrink    2     2     6.5
+
+m.laudrup      0     1     6.300000000000001
+
+vialli         1     2     6.0
+
+v.nistelrooy   2     0     6.4
+
+lampard        3     1     6.300000000000001
+
+pele           0     0     6.4
+
+score 14 goal 15 number of fans 84
+kahn           0     0     6.0
+
+cantona        3     3     6.5
+
+ronaldo        1     3     6.5
+
+conti          2     4     6.6000000000000005
+
+facchetti      2     2     6.5
+
+rivera         1     2     6.5
+
+keegan         3     1     6.1000000000000005
+
+d.stifano      0     0     6.4
+
+hurst          2     1     6.300000000000001
+
+kaka           2     0     6.300000000000001
+
+batistuta      3     3     6.4
+
+score 18 goal 19 number of fans 86
+buffon         0     0     6.0
+
+daglish        5     5     6.800000000000001
+
+papin          3     3     6.6000000000000005
+
+raul           2     2     6.6000000000000005
+
+g.muller       2     1     6.7
+
+henry          0     1     6.4
+
+careca         3     2     6.5
+
+rijkaard       2     3     6.5
+
+bierhoff       0     1     6.1000000000000005
+
+donadoni       1     0     6.1000000000000005
+
+cassano        1     1     6.1000000000000005
+
+score 27 goal 19 number of fans 102
+chilavert      0     0     6.4
+
+cruyff         0     2     6.2
+
+v.basten       3     0     6.5
+
+garrincha      1     4     6.2
+
+zico           2     2     6.300000000000001
+
+gascoigne      1     1     6.5
+
+kempes         4     4     6.6000000000000005
+
+socrates       2     1     6.0
+
+r.baggio       1     0     6.4
+
+totti          1     0     6.0
+
+g.weah         0     1     6.2
+
+score 17 goal 15 number of fans 81
+zenga          0     0     6.1000000000000005
+
+beckenbauer    2     3     6.4
+
+nedved         2     1     6.4
+
+zidane         1     2     6.4
+
+ballack        3     2     6.4
+
+stoichkov      2     0     6.4
+
+hagi           0     1     6.1000000000000005
+
+desaily        4     1     6.800000000000001
+
+h.shanchez     2     2     6.300000000000001
+
+neeskens       0     4     6.5
+
+r.keane        1     1     6.2
+
+score 23 goal 17 number of fans 93
+banks          0     0     6.300000000000001
+
+eusebio        0     2     6.6000000000000005
+
+b.chalton      3     1     6.4
+
+g.best         1     3     6.4
+
+kopa           1     0     6.0
+
+crespo         3     4     6.5
+
+canavaro       4     1     6.5
+
+mancini        3     1     6.6000000000000005
+
+trezeguet      0     2     6.0
+
+b.laudrup      2     2     6.300000000000001
+
+vieri          1     2     6.0
+
+score 16 goal 18 number of fans 82
+zoff           0     0     6.300000000000001
+
+gullit         1     1     6.300000000000001
+
+maldini        2     1     6.5
+
+b.moore        1     0     6.1000000000000005
+
+r.koeman       2     2     6.300000000000001
+
+owen           2     1     6.300000000000001
+
+p.falcao       3     2     6.5
+
+matthaeus      1     1     6.1000000000000005
+
+shevchenko     0     1     6.300000000000001
+
+deisler        0     2     6.300000000000001
+
+stam           1     2     6.300000000000001
+
+score 17 goal 13 number of fans 70
+cabrini from firenze to barcelona
+lampard from barcelona to firenze
+cantona from milano to turino
+cassano from turino to milano
+garrincha from venezia to marsiglia
+hagi from marsiglia to venezia
+b.chalton from bologna to genoa
+gullit from genoa to bologna
+5
+team      round score goal  fan
+firenze   14    27    18    107
+venezia   14    25    17    96
+turino    14    21    16    105
+bologna   14    21    12    87
+milano    14    18    14    89
+barcelona 14    18    11    85
+genoa     14    15    12    73
+marsiglia 14    6     7     75
+name           goal   team
+conti          5      milano
+g.muller       4      turino
+cruyff         4      venezia
+hagi           4      venezia
+klinsman       3      firenze
+m.laudrup      3      barcelona
+papin          3      turino
+owen           3      genoa
+trezeguet      3      bologna
+beckham        3      firenze
+name           assist team
+raul           6      turino
+cruyff         5      venezia
+daglish        4      turino
+ronaldinho     3      barcelona
+blanc          3      firenze
+didi           3      firenze
+hagi           3      venezia
+klinsman       3      firenze
+keegan         3      milano
+rensenbrink    2      barcelona
+name           score  team
+blanc          725      firenze
+cruyff         718      venezia
+klinsman       703      firenze
+g.muller       697      turino
+stam           696      genoa
+ronaldo        693      milano
+g.best         690      bologna
+raul           690      turino
+kaka           689      milano
+maradona       689      firenze
+player       goal assist score
+buffon         0     0     64.4
+
+daglish        2     4     66.2
+
+papin          3     1     67.9
+
+raul           2     6     69.0
+
+g.muller       4     1     69.7
+
+henry          0     0     64.4
+
+careca         1     1     65.0
+
+rijkaard       2     0     66.8
+
+bierhoff       0     1     67.2
+
+donadoni       1     1     66.5
+
+cantona        1     1     64.2
+
+score 21 goal 16 number of fans 105
+zenga          0     0     62.2
+
+beckenbauer    2     1     66.9
+
+nedved         2     0     67.60000000000001
+
+zidane         1     1     66.3
+
+ballack        0     0     64.0
+
+stoichkov      0     1     64.7
+
+garrincha      1     2     65.0
+
+desaily        0     0     65.7
+
+h.shanchez     0     0     62.800000000000004
+
+neeskens       0     1     65.7
+
+r.keane        1     1     64.60000000000001
+
+score 6 goal 7 number of fans 75
+schmeichel     0     0     65.7
+
+maradona       2     2     68.9
+
+beckham        3     1     67.5
+
+klinsman       3     3     70.3
+
+didi           2     3     67.10000000000001
+
+brehme         0     1     64.3
+
+blanc          2     3     72.5
+
+lampard        3     1     64.7
+
+p.rossi        1     2     67.2
+
+puskas         2     2     65.10000000000001
+
+bergkemp       0     0     63.900000000000006
+
+score 27 goal 18 number of fans 107
+kahn           0     0     63.6
+
+cassano        1     1     62.2
+
+ronaldo        2     1     69.3
+
+conti          5     2     68.3
+
+facchetti      2     1     67.9
+
+rivera         1     1     64.7
+
+keegan         1     3     67.7
+
+d.stifano      0     2     64.0
+
+hurst          0     2     64.3
+
+kaka           2     1     68.9
+
+batistuta      0     0     65.4
+
+score 18 goal 14 number of fans 89
+chilavert      0     0     64.8
+
+cruyff         4     5     71.8
+
+v.basten       1     1     66.8
+
+hagi           4     3     68.3
+
+zico           2     1     68.2
+
+gascoigne      0     2     63.900000000000006
+
+kempes         0     0     65.8
+
+socrates       1     1     68.60000000000001
+
+r.baggio       2     1     67.2
+
+totti          1     1     64.60000000000001
+
+g.weah         2     2     67.10000000000001
+
+score 25 goal 17 number of fans 96
+zoff           0     0     64.60000000000001
+
+b.chalton      3     0     64.8
+
+maldini        2     1     67.5
+
+b.moore        0     2     66.10000000000001
+
+r.koeman       0     1     64.7
+
+owen           3     2     67.60000000000001
+
+p.falcao       0     2     65.0
+
+matthaeus      0     1     66.4
+
+shevchenko     3     1     66.4
+
+deisler        0     1     66.5
+
+stam           1     1     69.60000000000001
+
+score 15 goal 12 number of fans 73
+banks          0     0     63.300000000000004
+
+eusebio        1     2     66.5
+
+gullit         2     1     66.10000000000001
+
+g.best         1     2     69.0
+
+kopa           1     2     65.4
+
+crespo         2     0     66.8
+
+canavaro       0     0     64.4
+
+mancini        1     2     66.9
+
+trezeguet      3     1     67.60000000000001
+
+b.laudrup      1     1     64.4
+
+vieri          0     1     65.0
+
+score 21 goal 12 number of fans 87
+yashin         0     0     62.900000000000006
+
+platini        1     1     65.0
+
+ronaldinho     3     3     66.10000000000001
+
+baresi         1     1     66.10000000000001
+
+tostao         0     0     64.3
+
+rensenbrink    3     2     66.5
+
+m.laudrup      3     1     68.2
+
+vialli         0     0     65.7
+
+v.nistelrooy   0     1     68.2
+
+cabrini        0     1     64.3
+
+pele           0     1     64.0
+
+score 18 goal 11 number of fans 85
+bierhoff from turino to marsiglia
+ballack from marsiglia to turino
+brehme from firenze to milano
+hurst from milano to firenze
+v.basten from venezia to genoa
+b.chalton from genoa to venezia
+trezeguet from bologna to barcelona
+ronaldinho from barcelona to bologna
+###################################################################
+###################################################################
+####################################################################6
+team      round score goal  fan
+milano    14    24    12    95
+genoa     14    23    13    84
+bologna   14    19    16    93
+marsiglia 14    19    13    82
+barcelona 14    18    14    88
+firenze   14    15    9     95
+venezia   14    15    9     88
+turino    14    13    13    96
+name           goal   team
+vialli         4      barcelona
+gullit         4      bologna
+tostao         3      barcelona
+r.koeman       3      genoa
+p.falcao       3      genoa
+b.laudrup      3      bologna
+d.stifano      3      milano
+neeskens       3      marsiglia
+g.muller       3      turino
+daglish        2      turino
+name           assist team
+stoichkov      5      marsiglia
+conti          4      milano
+b.laudrup      4      bologna
+daglish        3      turino
+deisler        3      genoa
+cabrini        3      barcelona
+cruyff         2      venezia
+platini        2      barcelona
+r.koeman       2      genoa
+d.stifano      2      milano
+name           score  team
+p.falcao       718      genoa
+henry          718      turino
+conti          711      milano
+raul           708      turino
+ronaldo        701      milano
+keegan         700      milano
+vialli         690      barcelona
+tostao         689      barcelona
+daglish        687      turino
+gullit         686      bologna
+player       goal assist score
+schmeichel     0     0     66.8
+
+maradona       0     1     63.900000000000006
+
+beckham        1     1     64.8
+
+klinsman       1     1     67.2
+
+didi           0     0     65.4
+
+hurst          2     2     65.10000000000001
+
+blanc          0     1     68.3
+
+lampard        1     1     63.900000000000006
+
+p.rossi        2     1     68.3
+
+puskas         1     1     66.5
+
+bergkemp       1     0     65.5
+
+score 15 goal 9 number of fans 95
+chilavert      0     0     63.900000000000006
+
+cruyff         2     2     67.5
+
+b.chalton      1     1     65.8
+
+hagi           0     1     66.10000000000001
+
+zico           0     2     64.3
+
+gascoigne      0     0     63.900000000000006
+
+kempes         2     1     67.9
+
+socrates       1     0     66.10000000000001
+
+r.baggio       1     1     65.3
+
+totti          0     0     66.10000000000001
+
+g.weah         2     1     68.0
+
+score 15 goal 9 number of fans 88
+buffon         0     0     64.60000000000001
+
+daglish        2     3     68.7
+
+papin          2     2     68.5
+
+raul           1     0     70.8
+
+g.muller       3     0     65.7
+
+henry          2     1     71.8
+
+careca         1     2     65.8
+
+rijkaard       1     0     65.0
+
+ballack        1     2     64.4
+
+donadoni       0     1     62.300000000000004
+
+cantona        0     2     62.5
+
+score 13 goal 13 number of fans 96
+banks          0     0     64.3
+
+eusebio        1     2     65.10000000000001
+
+gullit         4     1     68.60000000000001
+
+g.best         1     1     66.8
+
+kopa           2     1     66.8
+
+crespo         1     2     67.5
+
+canavaro       1     1     66.4
+
+mancini        1     2     66.10000000000001
+
+ronaldinho     0     2     63.300000000000004
+
+b.laudrup      3     4     68.5
+
+vieri          2     0     66.2
+
+score 19 goal 16 number of fans 93
+kahn           0     0     61.800000000000004
+
+cassano        0     0     62.900000000000006
+
+ronaldo        0     1     70.10000000000001
+
+conti          2     4     71.10000000000001
+
+facchetti      2     0     65.0
+
+rivera         1     1     66.5
+
+keegan         1     1     70.0
+
+d.stifano      3     2     67.9
+
+brehme         1     1     66.10000000000001
+
+kaka           1     1     66.8
+
+batistuta      1     1     65.10000000000001
+
+score 24 goal 12 number of fans 95
+yashin         0     0     64.4
+
+platini        2     2     66.4
+
+trezeguet      0     0     65.9
+
+baresi         1     2     67.2
+
+tostao         3     1     68.9
+
+rensenbrink    1     2     64.2
+
+m.laudrup      1     0     65.5
+
+vialli         4     1     69.0
+
+v.nistelrooy   1     2     66.10000000000001
+
+cabrini        0     3     64.7
+
+pele           1     1     68.60000000000001
+
+score 18 goal 14 number of fans 88
+zoff           0     0     63.900000000000006
+
+v.basten       2     1     66.4
+
+maldini        1     2     66.10000000000001
+
+b.moore        0     0     65.3
+
+r.koeman       3     2     68.60000000000001
+
+owen           0     0     61.7
+
+p.falcao       3     2     71.8
+
+matthaeus      1     2     66.2
+
+shevchenko     1     0     67.2
+
+deisler        2     3     66.3
+
+stam           0     1     65.0
+
+score 23 goal 13 number of fans 84
+zenga          0     0     65.4
+
+beckenbauer    2     0     66.4
+
+nedved         1     1     66.10000000000001
+
+zidane         2     2     68.5
+
+bierhoff       1     1     68.3
+
+stoichkov      1     5     66.8
+
+garrincha      2     1     65.0
+
+desaily        1     0     65.8
+
+h.shanchez     0     2     66.5
+
+neeskens       3     0     65.7
+
+r.keane        0     1     63.7
+
+score 19 goal 13 number of fans 82
+lampard from firenze to venezia
+totti from venezia to firenze
+cantona from turino to bologna
+ronaldinho from bologna to turino
+rivera from milano to barcelona
+pele from barcelona to milano
+owen from genoa to marsiglia
+bierhoff from marsiglia to genoa
+############################################################
+##########################################################
+####################################################
+cup winner: marsiglia
+league winner: milano
+league winner: firenze
+7
+team      round score goal  fan
+firenze   22    39    42    146
+barcelona 22    35    39    139
+genova    20    31    31    123
+milano    20    29    35    132
+venezia   14    18    19    97
+bologna   14    15    18    98
+turino    14    15    13    93
+marsiglia 14    13    19    95
+zagabria  6     10    14    10
+cartagine 6     10    14    10
+gibilterra6     8     6     10
+iaracia   6     5     6     20
+name           goal   team
+blanc          9      firenze
+puskas         7      firenze
+baresi         6      barcelona
+kaka           6      milano
+d.stifano      6      milano
+zidane         6      marsiglia
+totti          6      firenze
+cassano        6      milano
+brehme         6      milano
+cabrini        5      barcelona
+name           assist team
+puskas         9      firenze
+platini        9      barcelona
+maldini        7      genova
+maradona       7      firenze
+batistuta      7      milano
+d.stifano      7      milano
+didi           6      firenze
+vialli         6      barcelona
+cantona        6      bologna
+matthaeus      5      genova
+name           score  team
+maldini        722      genova
+henry          704      turino
+zidane         703      marsiglia
+blanc          700      firenze
+baresi         696      barcelona
+kaka           695      milano
+platini        695      barcelona
+cantona        694      bologna
+maradona       693      firenze
+p.rossi        688      firenze
+player       goal assist score
+schmeichel     0     0     66.5
+
+maradona       4     7     69.3
+
+beckham        1     4     65.7
+
+klinsman       5     5     66.5
+
+didi           4     6     68.0
+
+hurst          5     3     66.0
+
+blanc          9     2     70.0
+
+totti          6     3     67.0
+
+p.rossi        3     4     68.8
+
+puskas         7     9     68.0
+
+bergkemp       3     4     67.5
+
+score 39 goal 42 number of fans 146
+banks          0     0     64.5
+
+platini        3     9     69.5
+
+trezeguet      3     1     64.8
+
+baresi         6     4     69.60000000000001
+
+tostao         4     5     68.8
+
+rensenbrink    5     4     68.3
+
+m.laudrup      2     5     68.3
+
+vialli         3     6     67.60000000000001
+
+v.nistelrooy   4     2     67.3
+
+cabrini        5     1     66.7
+
+rivera         4     2     64.5
+
+score 35 goal 39 number of fans 139
+zoff           0     0     63.900000000000006
+
+v.basten       4     3     68.4
+
+maldini        4     7     72.2
+
+b.moore        4     2     67.9
+
+r.koeman       3     2     66.60000000000001
+
+bierhoff       3     0     65.3
+
+p.falcao       2     3     67.10000000000001
+
+matthaeus      3     5     66.3
+
+shevchenko     2     2     66.0
+
+deisler        3     4     67.60000000000001
+
+stam           3     3     66.0
+
+score 31 goal 31 number of fans 123
+kahn           0     0     64.3
+
+cassano        6     3     65.7
+
+ronaldo        4     2     68.10000000000001
+
+conti          1     4     68.0
+
+facchetti      3     3     65.8
+
+pele           2     2     65.0
+
+keegan         1     5     67.8
+
+d.stifano      6     7     68.10000000000001
+
+brehme         6     2     65.0
+
+kaka           6     4     69.5
+
+batistuta      4     7     64.60000000000001
+
+score 29 goal 35 number of fans 132
+zenga          0     0     66.10000000000001
+
+cruyff         2     4     67.5
+
+b.chalton      2     0     64.3
+
+hagi           2     3     68.0
+
+zico           2     2     68.60000000000001
+
+gascoigne      1     1     62.5
+
+kempes         2     0     66.8
+
+socrates       3     3     68.7
+
+r.baggio       1     2     68.2
+
+lampard        3     3     66.10000000000001
+
+g.weah         1     1     66.8
+
+score 18 goal 19 number of fans 97
+yashin         0     0     65.0
+
+eusebio        1     1     66.10000000000001
+
+gullit         2     3     66.5
+
+g.best         2     3     66.10000000000001
+
+kopa           4     1     68.7
+
+crespo         2     1     66.5
+
+canavaro       2     1     67.2
+
+mancini        3     1     65.10000000000001
+
+cantona        1     6     69.4
+
+b.laudrup      1     2     66.4
+
+vieri          2     1     65.4
+
+score 15 goal 18 number of fans 98
+buffon         0     0     66.5
+
+daglish        1     2     68.2
+
+papin          2     2     65.4
+
+raul           0     1     65.3
+
+g.muller       2     3     66.8
+
+henry          3     3     70.4
+
+careca         0     2     64.60000000000001
+
+rijkaard       1     0     67.2
+
+ballack        0     0     65.4
+
+donadoni       2     0     65.0
+
+ronaldinho     2     0     66.9
+
+score 15 goal 13 number of fans 93
+chilavert      0     0     66.7
+
+beckenbauer    5     0     67.9
+
+nedved         2     4     66.8
+
+zidane         6     3     70.3
+
+owen           2     4     66.7
+
+stoichkov      0     2     65.0
+
+garrincha      3     3     65.8
+
+desaily        1     2     67.60000000000001
+
+h.shanchez     2     1     67.60000000000001
+
+neeskens       1     1     64.3
+
+r.keane        0     2     61.7
+
+score 13 goal 19 number of fans 95
+hurst from firenze to barcelona
+rivera from barcelona to firenze
+shevchenko from genova to milano
+ronaldo from milano to genova
+zico from venezia to bologna
+crespo from bologna to venezia
+papin from turino to marsiglia
+r.keane from marsiglia to turino
+f22 from zagabria to cartagine
+f23 from cartagine to zagabria
+m21 from gibilterra to iaracia
+b20 from iaracia to gibilterra
+################################################################
+################################################################
+################################################################
+cup winner: turino
+league winner: milano
